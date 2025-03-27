@@ -1,0 +1,9 @@
+8.  Escribir un programa en pseudocódigo que solicite al usuario el año de nacimiento y muestre la edad 
+que cumplirá (o cumplió) en este año
+
+INICIO
+    anio_actual = LEER("Ingrese el año actual: ")
+    anio_nacimiento = LEER("Ingrese su año de nacimiento: ")
+
+    ESCRIBIR("Su edad es [anio_actual - anio_nacimiento])
+FIN

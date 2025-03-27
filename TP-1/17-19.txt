@@ -1,0 +1,40 @@
+17. Desarrolle un algoritmo que permita determinar el área y perímetro de un triángulo equilátero conociendo uno de sus lados.
+
+
+INICIO
+    ESCRIBIR("Ingrese el valor del lado")
+    LEER lado
+
+    area = (((lado ^ 2) * raiz(3)) / 4) // Lado elevado al cuadrado por raiz de 3, todo dividido entre 4 //
+    perimetro = 3 * lado
+
+    ESRIBIR("El area es: " + area + " y el perimetro es: " + perimetro)
+FIN
+
+---------------------------------------------------------------------------------------------------------
+
+18. Escriba un algoritmo que le pida al usuario una base y un exponente, y luego muestre en pantalla el 
+resultado de elevar el número base a la potencia exponente.
+
+INICIO
+    base = LEER("Ingrese un numero (base): ")
+    exponente = LEER("Ingrese una potencia: ")
+
+    resultado = base ** exponente
+
+    ESCRIBIR("El resultado de elevar el numero [base] a la [exponente] es [resultado])
+FIN
+
+---------------------------------------------------------------------------------------------------------
+
+19. Escriba un algoritmo que le pida al usuario el radio de un cilindro y su altura y luego muestre en 
+pantalla el volumen del cilindro.
+
+INICIO
+    radio = LEER("Ingrese el radio del cilindro: ")
+    altura = LEER("Ingrese la altura del cilindro: ")
+
+    resultado = 3.14 * (radio**2) * altura
+
+    ESCRIBIR("El volumen del cilindro es: [resultado]")
+FIN

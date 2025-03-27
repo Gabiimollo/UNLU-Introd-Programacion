@@ -1,0 +1,8 @@
+9.  Realizar un algoritmo que sume dos números dados y los muestre.
+
+INCIO
+    num_1 = LEER("Ingrese el numero 1: ")
+    num_2 = LEER("Ingrese el numero 2: ")
+
+    ESCRIBIR("La suma entre los numeros es: [num_1 + num_2]")
+FIN

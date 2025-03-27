@@ -1,0 +1,23 @@
+10. Defina con sus palabras cada uno de los siguientes conceptos: 
+    Programa: Conjunto de instrucciones (algoritmo) que una computadora puede ejecutar para realizar una tarea especifica
+    Código fuente: Algoritmos escritos por un programador en un lenguaje de programacion, que luego se traduce en lenguaje que la computadora pueda comprender (binario)
+    Algoritmo: Secuencia de pasos lógicos y ordenados para resolver un problema o tarea.
+    Instrucción: Acción básica que la computadora puede realizar.
+    Dato: Pieza de información que el automata puede procesar.
+    Lenguaje de programación: Conjunto de reglas y simbolos que se utilizar para escribir programas de computadora
+    Paradigma de programación: Enfoque o metodologia que define como se estructura y conceptualiza una solución hecha con codigo fuente.
+
+---------------------------------------------------------------------------------------------------------
+
+11. Conecte con una línea lisa conceptos de la columna izquierda con su correspondiente definición de la columna derecha. 
+
+Python  --------------------------> Lenguaje de programación
+Procedural -----------------------> Paradigma de programación
+Pascal ---------------------------> Lenguaje de programación.
+Orientado a Objetos --------------> Paradigma de programacion
+Codigo fuente --------------------> Conjunto de algoritmos que conforman un programa
+instruccion. ---------------------> Paso concreto dentro de un algoritmo.
+Algoritmo ------------------------> Serie de pasos para resolver un problema específico o realizar una tarea.
+Dato -----------------------------> Pieza de información relevante para el programa
+
+---------------------------------------------------------------------------------------------------------

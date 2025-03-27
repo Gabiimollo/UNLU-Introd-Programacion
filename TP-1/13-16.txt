@@ -1,0 +1,53 @@
+13. Complete los espacios en blanco del siguiente párrafo con los conceptos correspondientes: 
+
+    “Los lenguajes de programación, como __ Python ___ o ___ Pascal ___, le permiten al programador 
+    crear software escribiendo el ___ código fuente ___ del mismo. A su vez, los lenguajes de programación
+    se basan en un ___ paradigma de programación ___ determinado, el cual define los lineamientos 
+    necesarios para construir software correctamente; en el caso del paradigma Procedural, se dice que el 
+    código fuente de cualquier programa es básicamente un conjunto de ___ algoritmos ___ trabajando en 
+    conjunto para resolver las necesidades del usuario”. 
+
+---------------------------------------------------------------------------------------------------------
+
+14.  Utilizando lenguaje natural, confeccione un algoritmo que indique cómo enviar un correo electrónico 
+mediante el sitio Gmail (www.gmail.com). 
+
+    1. Abra un navegador web y diríjase al sitio www.gmail.com.
+    2. Ingrese su dirección de correo electrónico y haga clic en "Siguiente".
+    3. Introduzca su contraseña y haga clic en "Siguiente" para iniciar sesión.
+    4. Una vez dentro de su cuenta, haga clic en el botón "Redactar" para crear un nuevo correo.
+    5. En el campo "Para", escriba la dirección de correo electrónico del destinatario.
+    6. Complete el campo "Asunto" con el tema del correo.
+    7. Escriba el contenido del mensaje en el cuerpo del correo.
+    8. Si desea, adjunte archivos haciendo clic en el ícono de clip y seleccionando los archivos desde su dispositivo.
+    9. Revise el correo para asegurarse de que toda la información es correcta.
+    10. Haga clic en el botón "Enviar" para enviar el correo electrónico.
+
+---------------------------------------------------------------------------------------------------------
+
+15.  Si bien en el contexto de esta asignatura utilizaremos el paradigma Procedural, existen lenguajes que
+soportan varios paradigmas simultáneamente. Investigue y liste qué paradigmas soporta el lenguaje de 
+programación Python.
+
+    Python soporta múltiples paradigmas de programación, entre los cuales se incluyen:
+
+    - Paradigma Procedural: Permite estructurar el código en procedimientos o funciones.
+    - Paradigma Orientado a Objetos: Facilita la creación de clases y objetos para modelar problemas del 
+                                     mundo real.
+    - Paradigma Funcional: Soporta funciones de orden superior, inmutabilidad y programación declarativa.
+    - Paradigma Imperativo: Permite describir cómo se deben realizar las operaciones paso a paso.
+    - Paradigma Reflexivo: Permite al programa inspeccionarse y modificarse a sí mismo en tiempo de 
+                           ejecución.
+
+---------------------------------------------------------------------------------------------------------
+
+16.  Piense y luego explique por qué el paradigma de programación que se va a utilizar para resolver un 
+problema determinado es importante para el planteo de una solución. 
+
+    El paradigma de programación que se elige para resolver un problema es importante porque define la 
+    forma en que se estructura y organiza el código, lo cual afecta directamente la claridad, 
+    mantenibilidad y eficiencia de la solución. Por ejemplo, el paradigma Procedural es adecuado para 
+    problemas que pueden descomponerse en una secuencia de pasos o procedimientos, mientras que el 
+    paradigma Orientado a Objetos es útil para modelar sistemas complejos con múltiples entidades que 
+    interactúan entre sí. Elegir el paradigma correcto permite abordar el problema de manera más natural y 
+    efectiva, facilitando tanto el desarrollo como el mantenimiento del software.

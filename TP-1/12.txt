@@ -1,0 +1,11 @@
+12. Desarrolle un algoritmo que permita determinar el área y perímetro de un rectángulo conociendo sus lados. 
+
+INICIO
+    base = LEER("Ingrese la base del rectangulo: ")
+    altura = LEER("Ingrese la altura del rectangulo: ")
+
+    perimetro = 2 * (base + altura)
+    area = base * altura
+
+    ESCRIBIR("El perimetro es [perimetro] y el área es [area]")
+FIN

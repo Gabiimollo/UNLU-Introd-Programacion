@@ -1,0 +1,45 @@
+1. Un empleado del aeropuerto está cargando valijas en una cinta transportadora en movimiento. 
+Después de colocar una valija, siempre coloca la siguiente valija en el tercer lugar vacío que aparece. 
+Se detiene cuando las cinco valijas están en la cinta transportadora.
+ 
+R = La cinta transportadora se verá como la opcion D
+
+---------------------------------------------------------------------------------------------------------
+
+2. Ana hizo un algoritmo que indica cómo debe cambiarse un foco de luz quemado. Pero la mala suerte hizo 
+que las instrucciones se desordenen.
+
+Pregunta: ¿Podrías enumerar las instrucciones así se recupera el orden lógico original? 
+ 9 - Comprobá que la lamparita nueva funcione. 
+ 7 - Bajá la escalera. 
+ 2 - Buscá una lamparita nueva. 
+ 4 - Subí la escalera con la lamparita nueva. 
+ 5 - Desenroscá la lamparita rota. 
+ 6 - Enrosca la lamparita nueva. 
+ 3 - Buscá una escalera y la ubica en posición de alcanzar la lamparita rota.
+ 8 - Volvé a conectar la energía eléctrica. 
+ 1 - Cortá la energía eléctrica. 
+
+---------------------------------------------------------------------------------------------------------
+
+ 3.  Acertijo del lobo, la cabra y el repollo: 
+“Un día, un granjero fue al mercado y compró un lobo, una cabra y un repollo. Para volver a su casa tenía 
+que cruzar un río. El granjero dispone de una canoa para cruzar a la otra orilla, pero en la barca solo 
+caben él y una de sus compras”. 
+
+El lobo nunca puede quedarse solo con la cabra, sin el cuidado del granjero, y lo mismo pasa con la cabra 
+y el repollo. La barca puede cruzar de una orilla a otra sin límite de veces. 
+
+Pregunta: ¿Cómo podría resolver el granjero esta situación? 
+
+    1. El granjero cruza con la cabra.
+    2. Vuelve al otro lado.
+    3. Cruza con el lobo. Vuelve con la cabra.
+    4. Deja a la cabra y vuelve a cruzar con el repollo. Deja el repollo junto al lobo del otro lado.
+    5. Vuelve a buscar a la cabra. Y cruza finalmente el rio para continuar su camino.
+
+---------------------------------------------------------------------------------------------------------
+
+4. 5. 6. 7. Tiene graficos: No se pueden responder acá.
+
+---------------------------------------------------------------------------------------------------------
