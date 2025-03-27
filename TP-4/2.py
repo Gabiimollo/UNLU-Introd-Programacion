@@ -1,11 +1,6 @@
 """
-2. Cree un script que lea dos números enteros por teclado, y luego muestre en pantalla el resultado de la suma 
-entre ellos. 
+2. Cree un script que le solicite al usuario un número y devuelva su valor absoluto 
 """
+numero = int(input("Ingrese un numero: "))
 
-# Solicito ambos numeros al usuario
-num_1 = int(input("Ingrese el primer numero entero: "))
-num_2 = int(input("Ingrese otro numero entero: "))
-
-# Muestro el resultado
-print(f"El resultado de la suma entre {num_1} y {num_2} es {num_1 + num_2}")
+print(f"El valor absoluto del numero {numero} es {abs(numero)}")

@@ -1,14 +1,11 @@
 """
-3. Cree un script que muestre en pantalla el perímetro de un rectángulo, leyendo su base y altura desde el teclado.
-( perímetro = 2 * (base + altura)). 
+3. Cree un script que lea dos números enteros por teclado, y luego muestre en pantalla el resultado de la suma 
+entre ellos. 
 """
 
-# Solicitar al usuario la base y la altura del rectángulo
-base = float(input("Ingrese la base del rectángulo: "))
-altura = float(input("Ingrese la altura del rectángulo: "))
+# Solicito ambos numeros al usuario
+num_1 = int(input("Ingrese el primer numero entero: "))
+num_2 = int(input("Ingrese otro numero entero: "))
 
-# Calcular el perímetro
-perimetro = 2 * (base + altura)
-
-# Mostrar el resultado
-print(f"El perímetro del rectángulo es: {perimetro}")
+# Muestro el resultado
+print(f"El resultado de la suma entre {num_1} y {num_2} es {num_1 + num_2}")

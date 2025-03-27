@@ -1,15 +1,14 @@
 """
-4. Cree un script que le solicite a un alumno ingresar su apellido, la nota del primer parcial, y la nota del 
-segundo parcial. Finalmente, se debe mostrar un reporte con la siguiente información:
+4. Cree un script que muestre en pantalla el perímetro de un rectángulo, leyendo su base y altura desde el teclado.
+( perímetro = 2 * (base + altura)). 
 """
 
-# Solicitar datos al alumno
-apellido = input("Ingrese su apellido: ")
-nota_parcial_1 = float(input("Ingrese la nota del primer parcial: "))
-nota_parcial_2 = float(input("Ingrese la nota del segundo parcial: "))
+# Solicitar al usuario la base y la altura del rectángulo
+base = float(input("Ingrese la base del rectángulo: "))
+altura = float(input("Ingrese la altura del rectángulo: "))
 
-# Calcular el promedio
-promedio = (nota_parcial_1 + nota_parcial_2) / 2
+# Calcular el perímetro
+perimetro = 2 * (base + altura)
 
-# Mostrar el reporte
-print(f"\n--- Reporte --- \n - Apellido del alumno: {apellido} \n - Nota del primer parcial: {nota_parcial_1} \n - Nota del segundo parcial: {nota_parcial_2} \n - Promedio: {promedio}")
+# Mostrar el resultado
+print(f"El perímetro del rectángulo es: {perimetro}")

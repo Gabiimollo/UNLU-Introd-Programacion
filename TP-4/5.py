@@ -1,14 +1,15 @@
 """
-5. Cree un script que lea dos números de teclado (una base y un exponente) y luego muestre en pantalla el resultado 
-de elevar el número base a la potencia exponente.
+5. Cree un script que le solicite a un alumno ingresar su apellido, la nota del primer parcial, y la nota del 
+segundo parcial. Finalmente, se debe mostrar un reporte con la siguiente información:
 """
 
-# Leer la base y el exponente desde el teclado
-base = float(input("Ingrese la base: "))
-exponente = float(input("Ingrese el exponente: "))
+# Solicitar datos al alumno
+apellido = input("Ingrese su apellido: ")
+nota_parcial_1 = float(input("Ingrese la nota del primer parcial: "))
+nota_parcial_2 = float(input("Ingrese la nota del segundo parcial: "))
 
-# Calcular la potencia
-resultado = base ** exponente
+# Calcular el promedio
+promedio = (nota_parcial_1 + nota_parcial_2) / 2
 
-# Mostrar el resultado
-print(f"El resultado de {base} elevado a la potencia {exponente} es: {resultado}")
+# Mostrar el reporte
+print(f"\n--- Reporte --- \n - Apellido del alumno: {apellido} \n - Nota del primer parcial: {nota_parcial_1} \n - Nota del segundo parcial: {nota_parcial_2} \n - Promedio: {promedio}")
