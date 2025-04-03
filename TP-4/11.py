@@ -1,12 +1,12 @@
 """
-11.  Genere un programa que solicite al usuario una cantidad de segundos, 
-e imprima el tiempo en el formato HH:MM:SS.
+11. Pedí al usuario un número con decimales y mostrá (ayudate con round()):
+    El número redondeado hacia el entero más cercano
+    El número redondeado con 2 decimales
 """
 
-segundos = int(input("Ingrese la cantidad de segundos: "))
+numeroDecimal = float(input("Ingrese un numero decimal: "))
 
-HH = (segundos//3600)
-MM = (segundos%3600)//60 # El modulo se utiliza para extraer lo que me "sobra" para colocar en los segundos
-SS = segundos%60
+numeroEntero = round(numeroDecimal)
+numeroEnteroCon2Decimales = round(numeroDecimal, 2)
 
-print(f"{HH}:{MM}:{SS}")
+print(f"El numero redondeado es: {numeroEntero}, y el mismo con decimales es: {numeroEnteroCon2Decimales}")
